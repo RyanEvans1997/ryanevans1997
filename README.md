@@ -56,22 +56,12 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/ryanevans1997/Hunt4Hardware" title="Hunt4Hardware"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanevans1997&repo=Hunt4Hardware&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/ryanevans1997/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanevans1997&repo=Hunt4Hardware&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/ryanevans1997/Hunt4Hardware" title="Hunt4Hardware"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanevans1997&repo=Hunt4Hardware&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/ryanevans1997/CryptocurrencyPriceTracker" title="CryptocurrencyPriceTracker"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanevans1997&repo=CryptocurrencyPriceTracker&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/ryanevans1997/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanevans1997&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/ryanevans1997/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanevans1997&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/ryanevans1997/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanevans1997&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/ryanevans1997/cpp-artificial-neural-networks" title="Artificial Neural Networks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanevans1997&repo=cpp-artificial-neural-networks&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/ryanevans1997/javascript-minesweeper" title="Minesweeper"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanevans1997&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/ryanevans1997/KTU-TraditionalComputerOlympics-2019" title="KTU Traditional Computer Olympics 2019-2020"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanevans1997&repo=KTU-TraditionalComputerOlympics-2019&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/ryanevans1997/themoviedb-app" title="themoviedb-app"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanevans1997&repo=themoviedb-app&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
