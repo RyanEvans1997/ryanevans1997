@@ -1,15 +1,14 @@
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+    <a href="https://www.linkedin.com/in/ryanjpevans/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/ryanevans1997" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
 </h5>
 <br>
 <p align="center">
   Full Stack Software Developer
   <br>
   <br>
-  🎓 I graduated from Coventry University with a first class honours degree in Computer Science
+  🎓 Graduated from Coventry University with a first class honours degree in Computer Science
   <br>
   📚 Currently interested in .NET Development
   <br>
@@ -21,7 +20,6 @@
 <br>
 <p align="center">
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
