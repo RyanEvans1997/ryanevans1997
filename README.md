@@ -17,7 +17,6 @@
 
 <hr>
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
-<br>
 <p align="center">
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
@@ -53,7 +52,7 @@
 
 <hr>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center"> Repositories </h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/ryanevans1997/Hunt4Hardware" title="Hunt4Hardware"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanevans1997&repo=Hunt4Hardware&theme=react&border_color=61dafb&border_radius=10"></a>
