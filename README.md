@@ -62,7 +62,7 @@
 <code><img title="NextJS" height="25" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"></code>
 <code><img title="Nginx" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></code>
 <code><img title="NodeJS" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
-<code><img title="NuxtJS" height="25" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.sv"></code>
+<code><img title="NuxtJS" height="25" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"></code>
 <code><img title="Open CV" height="25" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
 <code><img title="PostgreSQL" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
 <code><img title="Postman" height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
