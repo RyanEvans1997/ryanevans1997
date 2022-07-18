@@ -1,22 +1,44 @@
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/ryanjpevans/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/ryanevans1997" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+    <a href="https://www.linkedin.com/in/ryanjpevans/" title="LinkedIn Profile">
+    <img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
+     LinkedIn
+    </a>
+  </code>
+  <code>
+    <a href="https://www.hackerrank.com/ryanevans1997" title="HackerRank Profile">
+    <img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg">
+    HackerRank
+    </a>
+  </code>
+  <code>
+    <a href="https://leetcode.com/ryanevans19971/" title="Leetcode Profile">
+    <img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg">
+    Leetcode
+    </a>
+  </code>
+    <code>
+    <a href="https://ryan-evans.netlify.app/Ryan_Evans_CV.pdf" title="CV">
+<svg stroke="#FFFFFF" fill="#FFFFFF" width="22" height="22" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512">
+<path d="M0 64C0 28.65 28.65 0 64 0H224V128C224 145.7 238.3 160 256 160H384V448C384 483.3 355.3 512 320 512H64C28.65 512 0 483.3 0 448V64zM256 128V0L384 128H256z"/>
+</svg>
+    Resume
+    </a>
+  </code>
 </h5>
 <br>
 <p align="center">
-  Full Stack Software Developer
+  Full Stack Software Developer, mainly specialising in .NET development
   <br>
   <br>
-  🎓 Graduated from Coventry University with a first class honours degree in Computer Science
+  Graduated with a first class honours in computer science
   <br>
-  📚 Currently interested in .NET Development
   <br>
-  📫 You can reach me at my email: <a href="mailto: ryanevans19971@gmail.com">ryanevans19971@gmail.com</a>
+  You can reach me at my email: <a href="mailto: ryanevans19971@gmail.com">ryanevans19971@gmail.com</a>
 </p>
 
 <hr>
-<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
+<h2 align="center">Current skillset</h2>
 <p align="center">
 <code><img title="Azure" height="25" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code>
 <code><img title="Bootstrap" height="25" src="hhttps://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
