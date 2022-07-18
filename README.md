@@ -1,28 +1,70 @@
-<h3 align="center">Full stack software developer that specialises in C#</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanevans1997&label=Profile%20views&color=0e75b6&style=flat" alt="ryanevans1997" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/RyanEvans1997?tab=repositories](https://github.com/RyanEvans1997?tab=repositories)
-
-- My portfolio & developer playground site can be found at [https://ryan-evans.netlify.app/](https://ryan-evans.netlify.app/)
-
-- 📫 How to reach me **ryanevans1997@gmail.com**
-
-- You can find my resume at [https://ryan-evans.netlify.app/Ryan_Evans_CV.pdf](https://ryan-evans.netlify.app/Ryan_Evans_CV.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ryanjpevans/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ryanjpevans/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ryanevans19971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ryanevans19971" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ryanevans19971/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ryanevans19971/" height="30" width="40" /></a>
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/ryanjpevans/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/ryanevans1997" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+</h5>
+<br>
+<p align="center">
+  Full Stack Software Developer
+  <br>
+  <br>
+  🎓 Graduated from Coventry University with a first class honours degree in Computer Science
+  <br>
+  📚 Currently interested in .NET Development
+  <br>
+  📫 You can reach me at my email: <a href="mailto: ryanevans19971@gmail.com">ryanevans19971@gmail.com</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+<hr>
+<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
+<p align="center">
+<code><img title="Azure" height="25" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code>
+<code><img title="Bootstrap" height="25" src="hhttps://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
+  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="SASS" height="25" src="images/sass.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+</p>
+<hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanevans1997&show_icons=true&locale=en&layout=compact" alt="ryanevans1997" /></p>
+<h2 align="center"> Stats </h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/ryanevans1997/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ryanevans1997&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ryanevans1997&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanevans1997&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=ryanevans1997&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanevans1997&show_icons=true&locale=en" alt="ryanevans1997" /></p>
+<hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryanevans1997&" alt="ryanevans1997" /></p>
-
+<h2 align="center"> Repositories </h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/ryanevans1997/Hunt4Hardware" title="Hunt4Hardware"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanevans1997&repo=Hunt4Hardware&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/ryanevans1997/CryptocurrencyPriceTracker" title="CryptocurrencyPriceTracker"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanevans1997&repo=CryptocurrencyPriceTracker&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/ryanevans1997/themoviedb-app" title="themoviedb-app"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanevans1997&repo=themoviedb-app&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br><br><br><br><br><br>
+<h4 align="center">
+  <a href="https://github.com/ryanevans1997?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
