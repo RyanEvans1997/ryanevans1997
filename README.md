@@ -41,15 +41,44 @@
 <h2 align="center">Current skillset</h2>
 <p align="center">
 <code><img title="Azure" height="25" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code>
-<code><img title="Bootstrap" height="25" src="hhttps://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+<code><img title="Bootstrap" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
+<code><img title="C#" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
+<code><img title="CSS" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
+<code><img title="Django" height="25" src="https://cdn.worldvectorlogo.com/logos/django.svg"></code>
+<code><img title="Docker" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
+<code><img title="Elastic" height="25" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"></code>
+<code><img title="Figma" height="25" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+<code><img title="Firebase" height="25" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
+<code><img title="Git" height="25" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img title="GraphQL" height="25" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"></code>
+<code><img title="Heroku" height="25" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code>
+<code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
+<code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img title="Kubernetes" height="25" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
+<code><img title="Linux" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
+<code><img title="MongoDB" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
+<code><img title="Microsoft SQL Server" height="25" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></code>
+<code><img title="MySQL" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
+<code><img title="NextJS" height="25" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"></code>
+<code><img title="Nginx" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></code>
+<code><img title="NodeJS" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
+<code><img title="NuxtJS" height="25" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.sv"></code>
+<code><img title="Open CV" height="25" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
+<code><img title="PostgreSQL" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
+<code><img title="Postman" height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
+<code><img title="Python" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img title="RabbitMQ" height="25" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"></code>
+<code><img title="ReactJS" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
+<code><img title="React Native" height="25" src="https://reactnative.dev/img/header_logo.svg"></code>
+<code><img title="SASS" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></code>
+<code><img title="Selenium" height="25" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"></code>
+<code><img title="SQLite" height="25" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
+<code><img title="Svelte" height="25" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"></code>
+<code><img title="Tailwind" height="25" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
+<code><img title="Typescript" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+<code><img title="VueJS" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"></code>
+<code><img title="Xamarin" height="25" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg"></code>
+
 </p>
 <hr>
 
